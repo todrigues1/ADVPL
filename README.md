@@ -1,2 +1,2 @@
 # ADVPL
-Fontes customizados para uso base
+Fontes customizados para uso em clientes
